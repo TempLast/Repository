@@ -1,0 +1,27 @@
+Quelques questions pour découvrir l'outil GitHub :
+
+
+1. Qu'est ce que Git ? Quelle différence avec GitHub ?
+
+Git est un logiciel de gestion de versions décentralisé, c'est un logiciel libre et gratuit , ce logiciel permet de géré facilement les modifications effectuées sur un projet (permet d'identifier rapidement le changement de version effectués et revenir à une ancienne version.
+
+Git est un logiciel local qui permet aux développeurs de sauvegarder instantanément leurs projets au fur et a mesure du temps, GitHub est une plateforme Web qui intègre les fonctionnalités de contrôle de version de Git afin de pouvoir les utiliser en collaboration.
+
+2. Qu'est ce qu'un Repository ?
+
+Un Repository est un espace de stockage et de gestion de code source pour un projet donné, il contient l'ensemble des fichiers, du code source, de la documentation et de tout les autres contenu nécessaire.
+
+
+3. Qu'est ce qu'un commit ? Un push ? Un pull ?
+
+Un commit est une commande git qui capture un instantané des changements actuel du projet. Un push ajoute des contenus d'un dépôt local vers un dépôt central (elle permet d'écraser les modifications). Un pull permet de télécharger le contenu d'un dépôt distant pour mettre à jour son dépôt local.
+
+4. A quoi sert le fichier README.md dans un repository GitHub ?
+
+Le fichier README.md sert a communiquer les attentes de votre projet et vous aidez à gérer les contributions.
+
+
+5. Comment récupérer un repository GitHub en ligne de commande sur un invite de commande ?
+
+On peut copier  un dépôt existant sur le réseau ou ailleurs ou en créer un nouveau dans un dossier existant. 
+
